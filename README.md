@@ -69,7 +69,7 @@
         <artifactId>bootstrap</artifactId>
         <version>5.2.3</version>
     </dependency>
-    ```
+```
 
 
 #### application.properties file
