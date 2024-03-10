@@ -1,5 +1,5 @@
 
-#### Dependencies needed for project to add in pom.xml file
+#### Dependencies needed for project
 ```
     <!-- DEPENDENCIES FOR STARTING SPRING PROJECTS-->
     <dependency>
