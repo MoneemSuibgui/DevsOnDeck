@@ -2,18 +2,18 @@
 #### Tasks :
 ```
     • Implement CRUD of the application
-    • Creation of forms with field validation
+    • Creation of forms with fields validation
     • Effective use of REST APIs and tested using Postman
     • Implementation of MVC architecture
 ```
 
 #### Key achivements :
 ```
-    I developed web site for developers and recruiters.
+    I developed web site for developers and recruiters
 ```
 #### Technologies:
 ```
-    HTML5, Bootstrap, JavaScript, Springboot, MySQL
+    HTML5, Bootstrap library, JavaScript, Springboot framework, MySQL
 ```
 #### Dependencies needed for project :
 ```
