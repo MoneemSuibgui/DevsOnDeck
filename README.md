@@ -1,4 +1,4 @@
-## Project: Devs on Deck -- Soloproject --
+## Project : Devs on Deck -- Soloproject --
 #### Tasks :
 ```
     • Implement CRUD of the application
