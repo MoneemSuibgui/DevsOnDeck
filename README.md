@@ -12,7 +12,7 @@
 
 #### Key achivements :
 ```
-    I developed web site for developers and recruiters
+    I developed a job offers website for developers and recruiters 
 ```
 #### Technologies:
 ```
