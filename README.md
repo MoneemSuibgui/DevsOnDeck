@@ -1,15 +1,4 @@
-## Project : Devs on Deck -- Soloproject --
-#### Wireframe
-![DevsOnDeck](https://github.com/MoneemSuibgui/DevsOnDeck/assets/125930635/955762a4-6067-4333-ad3b-7ff2fffdad06)
-
-#### Tasks :
-```
-    • Implement CRUD of the application
-    • Creation of forms with fields validation
-    • Effective use of REST APIs and tested using Postman
-    • Implementation of MVC architecture
-```
-
+## Devs on Deck -- Soloproject --
 #### Key achivements :
 ```
     I developed a job offers website for developers and recruiters 
@@ -18,6 +7,15 @@
 ```
     HTML5, Bootstrap library, JavaScript, Springboot framework, MySQL
 ```
+#### Tasks :
+```
+    • Implement CRUD of the application
+    • Creation of forms with fields validation
+    • Effective use of REST APIs and tested using Postman
+    • Implementation of MVC architecture
+```
+
+
 #### Dependencies needed for project :
 ```
     <!-- DEPENDENCIES FOR STARTING SPRING PROJECTS-->
