@@ -1,6 +1,7 @@
 ## Project : Devs on Deck -- Soloproject --
 #### Wireframe
-	![DevsOnDeck](https://github.com/MoneemSuibgui/DevsOnDeck/assets/125930635/955762a4-6067-4333-ad3b-7ff2fffdad06)
+![DevsOnDeck](https://github.com/MoneemSuibgui/DevsOnDeck/assets/125930635/955762a4-6067-4333-ad3b-7ff2fffdad06)
+
 #### Tasks :
 ```
     • Implement CRUD of the application
